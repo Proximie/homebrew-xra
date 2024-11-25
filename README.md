@@ -1,0 +1,1 @@
+Homebrew formula for the [xra](https://github.com/Proximie/x-result-analyzer) tool.
